@@ -11,3 +11,5 @@ Developed the code for various data structures and algorithms in my process of l
 1. Linear Search
 2. Binary Search
 
+## Sorting Algorithms
+1. 
