@@ -12,4 +12,6 @@ Developed the code for various data structures and algorithms in my process of l
 2. Binary Search
 
 ## Sorting Algorithms
-1. 
+1. Insertion Sort
+2. Selection Sort
+3. Merge Sort
