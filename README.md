@@ -6,6 +6,7 @@ Developed the code for various data structures and algorithms in my process of l
 3. Queue - Using Linkedlist
 4. Binary Tree
 5. Maps
+6. Graph - Using Adjacency Matrix
 
 ## Searching Algorithms
 1. Linear Search
